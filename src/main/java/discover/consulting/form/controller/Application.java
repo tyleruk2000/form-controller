@@ -12,6 +12,7 @@ public class Application
 {
 
     public static void main(String[] args) {
+        //TODO add application.xml file
         SpringApplication.run(Application.class, args);
     }
 
